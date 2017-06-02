@@ -1,0 +1,69 @@
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important; 
+	padding-bottom:0 !important;
+    height: 30px;
+	margin-bottom:0;
+}
+
+.navbar {
+	min-height:32px !important;
+		
+}
+
+.navbar.center .navbar-inner {	
+   text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
+.jumbotron {
+	margin-bottom:0;
+	margin-top:-20px;
+	background-color: #000;
+	 font-family: 'Raleway';font-size: 200px;
+	 text-align: center;
+	 color: #ffccff;
+	 padding: 0px;
+}
+
+.relative {
+	position:relative; 
+}
+
+.absolute-text {
+		position:absolute; 
+		top: 0; 
+		font-family: 'Cedarville Cursive';font-size: 45px;
+		text-align: center;
+		margin-top: 100px;
+		margin-right: 300px;
+		margin-left: 300px;
+	
+}		
+
+ .absolute {
+	text-align: right;
+	margin-right: 125px;
+    font-family: 'Cedarville Cursive';font-size: 25px;
+}
+
+.container h3 {
+	font-family: 'Raleway';font-size: 50px;	
+	text-align: center;
+} 
+
+.container p {
+	font-family: 'Raleway';font-size: 16px;
+	text-align: center;
+}	
+
+
+	
+
+	
+
+
+	
